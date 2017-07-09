@@ -26,6 +26,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 
 		// Hiding the title bar
+		//Comment
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 
 		// Learning the orientation
